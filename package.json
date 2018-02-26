@@ -31,7 +31,8 @@
     "entry": {
       "rc-progress": [
         "./src/index.js",
-        "./assets/index.less"
+        "./assets/index.less",
+        "./dist/rc-progress.min.js"
       ]
     }
   },
